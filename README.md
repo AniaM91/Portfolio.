@@ -29,7 +29,7 @@ Zapraszam do kontaktu:
 * Zephyr
 * draw.io
 * Mural
-* One
+* OneNote
 * MS Office
 * Devtools i kody HTTP
 * Slack/Teams
