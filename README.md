@@ -3,7 +3,7 @@
 Cześc, jestem Ania. 
 Na co dzięn testuję dla Banku - tego z Żubrem. 
 
-W trakcie pracy nad projektem - który właśnie się kończy - narodziło się we mnie uczucie, gdzie poczułam miętę do roli Product Ownera/Analityka Biznesowego. 
+W trakcie pracy nad projektami, narodziło się we mnie uczucie, gdzie poczułam miętę do roli Product Ownera/Analityka Biznesowego. 
 
 W sumie, kiedy spojrzę na moje TOP 5 Talentów Gallupa - ta pasja siedziała gdzieś we mnie, musiałam ją tylko odkryć i mieć do tego możliwości - a tych w trakcie trwania projektu nie brakowało ! 
 
@@ -29,4 +29,24 @@ Wychodzę z inicjatywą,  udzielam się. I nie raz się boję - nie ukrywam - al
 * Mural
 * Notepad
 * MS Office
+* Devtools i kody HTTP
+* Slack/Teams
 
+# Umiejętności technniczne
+* umiejętność tworzenia User Stories
+* analiza dokumetnacji 
+* koordynowanie przepływu pracy na Tablicy Sprintu
+* prowadzenie daily/review
+* planowanie i prowadzenie spotkań spoza zespołu Scrumowego
+* wycena tasków na refinamencie
+* tworzenie modeli BPMN
+* tworznie przypadków testowych
+* raprotowania bug'ów
+* praca w metodologii SCRUMowej
+* znajomość Devtools - odczytywanie kodów HTTP
+
+# Umiejetności nietechniczne
+* dociekliwość
+* samodzielność i umiejętność zarządznaia czasem pracy
+* skrupulatność
+* otwartość i elastyczność
