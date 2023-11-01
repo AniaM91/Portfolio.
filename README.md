@@ -1,6 +1,7 @@
 # O mnie
 
 Cześc, jestem Ania 👋
+
 Na co dzięn testuję dla Banku - tego z Żubrem. 
 
 W trakcie pracy nad projektami, narodziło się we mnie uczucie, gdzie poczułam miętę do roli Product Ownera/Analityka Biznesowego. 
