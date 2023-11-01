@@ -34,20 +34,22 @@ Zapraszam do kontaktu:
 * Devtools i kody HTTP
 * Slack/Teams
 
-# Umiejętności technniczne
+# Umiejętności 
 * umiejętność tworzenia User Stories
 * analiza dokumetnacji 
 * koordynowanie przepływu pracy na Tablicy Sprintu
 * prowadzenie daily/review
-* planowanie i prowadzenie spotkań spoza zespołu Scrumowego
-* wycena tasków na refinamencie
+* planowanie i prowadzenie spotkań
+* przeprowadzenie Product Show
+* wycena tasków na refinemencie
 * tworzenie modeli BPMN
 * tworznie przypadków testowych
-* raprotowania bug'ów
+* raprotowanie bug'ów
 * praca w metodologii SCRUMowej
 * znajomość Devtools - odczytywanie kodów HTTP
 
-# Umiejetności nietechniczne
+
+# Umiejetności miękkie
 * dociekliwość, skrupulatność
 * samodzielność i umiejętność zarządznaia czasem pracy
 * elastycznośc i reagowanie na zmiany
