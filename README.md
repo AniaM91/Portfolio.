@@ -16,6 +16,7 @@ Jednym z moich talentów Gallupa jest:
 Jestem graczem zespołowym, lubię ludzi i dbam aby relacje w zespole były dobre, gdyż to przekłada się na efekt pracy teamu. 
 Wychodzę z inicjatywą,  udzielam się. I nie raz się boję - nie ukrywam - ale lubię powiedzenie - Bój się i działaj. Może dlatego w pracy zazwyczaj słyszę - gdzie diabeł nie może, tam Miechowicz pośle? 🙂
 
+Zapraszam do kontaktu [Anna Miechowicz](https://www.linkedin.com/in/anna-miechowicz/)
 
 # Technologie i narzędzia
 * Jira
