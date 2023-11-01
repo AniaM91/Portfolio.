@@ -5,9 +5,9 @@ Cześc, jestem Ania 👋
 Na co dzięn testuję dla Banku - tego z Żubrem. 
 
 W trakcie pracy nad projektami, narodziło się we mnie uczucie, gdzie poczułam miętę do roli Product Ownera/Analityka Biznesowego. 
-Ta pasja siedziała we mnie od dawna. Musiałam jednak nabrać wiatu w żagne i dajś do głosu moim Talentom. 
+Ta pasja siedziała we mnie od dawna. Musiałam jednak nabrać wiatru w żagne i dać dojść do głosu moim Talentom. 
 
-Jednym z moich talentów Gallupa jest:
+A Moje talenty, według Gallupa to: 
 * wizjoner - dzięki czemu, jestem w stanie prawie namacalnie wyobrazić produkty i efekt końcowy.
 * aktywator - zamieniam pomysły, w czyny. Działam.
 * talent empatii i indywidualizacji, pomaga mi wcielić się w rolę odbiorcy/klienta/ użytkownika.
