@@ -17,4 +17,14 @@ Jestem graczem zespołowym, lubię ludzi i dbam aby relacje w zespole były dobr
 Wychodzę z inicjatywą,  udzielam się. I nie raz się boję - nie ukrywam - ale lubię powiedzenie - Bój się i działaj. Może dlatego w pracy zazwyczaj słyszę - gdzie diabeł nie może, tam Miechowicz pośle? 🙂
 
 
+#Technologie i narzędzia
+*Jira
+*Confluence
+*SQL
+*BMPN ( kurs w trakcie)
+*Grafana ( sprawdzanie logów)
+*HTML/CSS
+*Zephyr
+*draw.io
+*Mural
 
