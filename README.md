@@ -46,7 +46,14 @@ Wychodzę z inicjatywą,  udzielam się. I nie raz się boję - nie ukrywam - al
 * znajomość Devtools - odczytywanie kodów HTTP
 
 # Umiejetności nietechniczne
-* dociekliwość
+* dociekliwość, skrupulatność
 * samodzielność i umiejętność zarządznaia czasem pracy
-* skrupulatność
-* otwartość i elastyczność
+* elastycznośc i reagowanie na zmiany
+
+# Projekty
+* BAS EXIT - Przelewy w Pekao360
+* Pekao24 - Oferta
+* Wsparcie (zastępstwo) w projekcie - Otwierania Lokat w Pekao360
+* Utworzenie Zespołu Testerskiego
+* Współtworzenie produktu dla obsługi zgłoszeń SD przy pomocy AI
+* Mój Projekt, który wygrał w konkursie Banku 
