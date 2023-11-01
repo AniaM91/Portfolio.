@@ -50,10 +50,25 @@ Wychodzę z inicjatywą,  udzielam się. I nie raz się boję - nie ukrywam - al
 * samodzielność i umiejętność zarządznaia czasem pracy
 * elastycznośc i reagowanie na zmiany
 
-# Projekty
+# Projekty Bankowe
 * BAS EXIT - Przelewy w Pekao360
 * Pekao24 - Oferta
 * Wsparcie (zastępstwo) w projekcie - Otwierania Lokat w Pekao360
 * Utworzenie Zespołu Testerskiego
 * Współtworzenie produktu dla obsługi zgłoszeń SD przy pomocy AI
 * Mój Projekt, który wygrał w konkursie Banku 
+* Ambasadroka Banku na LinkedIn
+
+# Projekty spoza Banku
+* Mentorka w Inco Academy
+* Prelegentka WDI 2023
+* Absolwentka #MotherEmpower
+* Przebranżowienie do IT
+  
+# Kursy/ Certyfikaty 
+* [BPMN] - w trakcie 
+* [Podstawy Scrum i Agile ](https://www.udemy.com/certificate/UC-0178b0b6-006f-4e96-b484-efdc82a77dae/)
+* [Podstawy Manualnego Testowania Oprogramowania](https://www.udemy.com/certificate/UC-d62d5d1e-fd60-4e15-8ad9-99ef5a4b76cf/)
+* [Praktyczny Kurs Testowania Oprogramowania](https://www.udemy.com/certificate/UC-79a62a03-9130-49bd-b6bc-e63200c57862/)
+* [SQL](https://www.udemy.com/certificate/UC-f7d03661-637b-4816-ae02-3106145c355a/)
+* [JIRA](https://www.udemy.com/certificate/UC-2b316b68-13f1-4faa-830c-d53df1e50e4b/)
